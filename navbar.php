@@ -11,15 +11,15 @@
 
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" href="http://localhost/AUS-IS63/buku">Buku</a>
+          <a class="nav-link active" href="http://localhost/UAS-IS63/buku">Buku</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link active" href="http://localhost/AUS-IS63/penerbit">Penerbit</a>
+          <a class="nav-link active" href="http://localhost/UAS-IS63/penerbit">Penerbit</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link active" href="http://localhost/AUS-IS63/kategori">Kategori</a>
+          <a class="nav-link active" href="http://localhost/UAS-IS63/kategori">Kategori</a>
         </li>
       </ul>
 
