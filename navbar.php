@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-dark-subtle" data-bs-theme="dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="http://localhost/UAS.WEB">Navbar</a>
+    <a class="navbar-brand" href="http://localhost/AUS-IS63">Navbar</a>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
         data-bs-target="#navbarSupportedContent">
@@ -11,15 +11,15 @@
 
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" href="http://localhost/UAS.WEB/buku">Buku</a>
+          <a class="nav-link active" href="http://localhost/AUS-IS63/buku">Buku</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link active" href="http://localhost/UAS.WEB/penerbit">Penerbit</a>
+          <a class="nav-link active" href="http://localhost/AUS-IS63/penerbit">Penerbit</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link active" href="http://localhost/UAS.WEB/kategori">Kategori</a>
+          <a class="nav-link active" href="http://localhost/AUS-IS63/kategori">Kategori</a>
         </li>
       </ul>
 
