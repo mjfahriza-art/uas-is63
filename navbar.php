@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-dark-subtle" data-bs-theme="dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href=>Navbar</a>
+    <a class="navbar-brand" href="http://localhost/UAS-IS63">Navbar</a>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
         data-bs-target="#navbarSupportedContent">
@@ -11,15 +11,15 @@
 
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" href=>Buku</a>
+          <a class="nav-link active" href="http://localhost/UAS-IS63/buku">Buku</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link active" href=>Penerbit</a>
+          <a class="nav-link active" href="http://localhost/UAS-IS63/penerbit">Penerbit</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link active" href=>Kategori</a>
+          <a class="nav-link active" href="http://localhost/UAS-IS63/kategori">Kategori</a>
         </li>
       </ul>
 
@@ -28,7 +28,7 @@
         <button class="btn btn-outline-secondary" type="submit">Search</button>
       </form>
 
-      <a href="http://localhost/IS63/biodata/logout.php" class="btn btn-danger ms-3">
+      <a href="http://localhost/UAS-IS63/biodata/logout.php" class="btn btn-danger ms-3">
         Logout
       </a>
 
